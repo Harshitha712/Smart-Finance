@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/4b8c0665-5302-4f58-8305-fb785
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+"# Smart-Finance" 
